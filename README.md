@@ -1,6 +1,7 @@
 # WiDS-TextStyleTransfer-and-Natural-Language-Processing-with-Deep-Learning
 
 **WEEK 1**
+
 Complete the below two lectures
 
 Video1:
