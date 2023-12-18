@@ -22,7 +22,20 @@ The slides are really good, you can look at them first to save time, and then lo
 **Deadline - 23rd December**
 
 Part 1  - Complete the ipynb file provided. 
+
+Topics covered : 
+
+1)Count based word vectors : Co-occurence matrices, dimensionality reduction by truncated SVD, plotting embeddings
+2)Coparison with prediction based word vector GloVe
+3)Similarity : Cosine similarility, synonyms, antonyms, thinking about Bias
+
 Part 2 - Complete files **sgd.py** and **word2vec.py**
+
+Topics covered :
+
+1)Skipgram implmentation with Naive Softmax
+2)Skipgram implmentation with negative sampling
+
 For part 2 you can take help of this Medium Article by Shubham Shrivastava:
 [https://medium.com/@towardsautonomy/word2vec-part5-80bcccfefe44]
 
