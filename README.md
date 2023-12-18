@@ -1,6 +1,6 @@
 # WiDS-TextStyleTransfer-and-Natural-Language-Processing-with-Deep-Learning
 
-
+**WEEK 1**
 Complete the below two lectures
 
 Video1:
@@ -10,14 +10,17 @@ Video2:
 https://youtu.be/gqaHkPEZAew?si=DU0ABCI5m4vHidDr
 
 Slides
- https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture01-wordvecs1.pdf
+https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture01-wordvecs1.pdf
 
 https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture02-wordvecs2.pdf
 
 The slides are really good, you can look at them first to save time, and then look at the video for parts you didn't understand.
 
 
-Assignment 1 : Deadline - 23rd December
+**Assignment 1**
+
+**Deadline - 23rd December**
+
 Part 1  - Complete the ipynb file provided. 
 Part 2 - Complete files **sgd.py** and **word2vec.py**
 For part 2 you can take help of this Medium Article by Shubham Shrivastava:
