@@ -28,7 +28,7 @@ Topics covered :
 
 1)Count based word vectors : Co-occurence matrices, dimensionality reduction by truncated SVD, plotting embeddings 
 
-2)Coparison with prediction based word vector GloVe  
+2)Comparison with prediction based word vector GloVe  
 
 3)Similarity : Cosine similarility, synonyms, antonyms, thinking about Bias  
 
