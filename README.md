@@ -43,6 +43,8 @@ Topics covered :
 For part 2 you can take help of this Medium Article by Shubham Shrivastava:
 [https://medium.com/@towardsautonomy/word2vec-part5-80bcccfefe44]
 
+A minor hiccup wrt part 2 : I could not pass the test cases for the part of Skipgram implmentation with negative sampling. I have not changed the test cases yet, but if we all face the same issue then we can confirm that the test cases are not correct. I'll try it out again. But once you do it, let me know if you were able to pass those test cases.
+
 
 
 The lectures, slides and assignments have been referenced from [CS224N: Natural Language Processing with Deep Learning
